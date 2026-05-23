@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="SentinelX-AI Banner"/>
-</p>
+
 
 ![Status](https://img.shields.io/badge/status-active-success)
 ![AI](https://img.shields.io/badge/AI-powered-blue)
