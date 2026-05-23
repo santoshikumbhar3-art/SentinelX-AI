@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/status-active-success)
+![AI](https://img.shields.io/badge/AI-powered-blue)
+![Cybersecurity](https://img.shields.io/badge/cybersecurity-platform-red)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # SentinelX-AI
 
 ## AI-Powered Cybersecurity Intelligence Platform
