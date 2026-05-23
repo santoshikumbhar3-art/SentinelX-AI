@@ -61,6 +61,42 @@ Offer actionable guidance and awareness to improve digital security practices.
 
 ---
 
+# Technical Capabilities
+
+## AI Security Intelligence
+SentinelX-AI is designed to simulate intelligent cybersecurity analysis workflows capable of identifying suspicious activity patterns and generating security insights.
+
+## Threat Monitoring Pipeline
+The platform architecture supports future integration of:
+- real-time event monitoring
+- traffic analysis
+- behavioral analysis
+- anomaly detection
+- intelligent alert processing
+
+## Security Analytics Engine
+Future implementations may include:
+- risk scoring algorithms
+- predictive analytics
+- machine learning threat classification
+- automated security insights
+
+## Scalable Infrastructure
+The modular architecture allows scalable deployment for:
+- individual users
+- startups
+- enterprise environments
+- cloud security ecosystems
+
+## Future AI Expansion
+Planned AI capabilities include:
+- deep learning security models
+- AI-assisted incident response
+- autonomous threat analysis
+- intelligent attack prediction systems
+  
+---
+
 ## Technology Stack
 
 - Next.js
